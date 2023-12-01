@@ -23,6 +23,40 @@
         "id": "https://lgsump.github.io/shoes-comparison/editing/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1207.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/shoes-comparison/annotations/editing-canvas-1-superimposition.json",
+            "label": {
+              "none": ["Superimposition"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/shoes-comparison/annotations/editing-canvas-1-fade.json",
+            "label": {
+              "none": ["Fade"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/shoes-comparison/annotations/editing-canvas-1-graphic-match.json",
+            "label": {
+              "none": ["Graphic match"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/shoes-comparison/annotations/editing-canvas-1-dissolve.json",
+            "label": {
+              "none": ["Dissolve"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/shoes-comparison/editing/canvas-1/paintings",
