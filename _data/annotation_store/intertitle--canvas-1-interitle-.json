@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/shoes-comparison/annotations/intertitle--canvas-1-interitle-.json",
+  "type": "AnnotationPage",
+  "label": "Interitle ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "intertitle--canvas-1-interitle--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "By Saturday she was so / utterly miserable that it / seemed she could hardly / live until that night when / she would get her / new shoes. Exposition establishes timeline and also uses free indirect discourse to frame the next sequence and its exchange. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/shoes-comparison/intertitle-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://lgsump.github.io/shoes-comparison/intertitle-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "332.0"
+        }
+      }
+    }
+  ]
+}

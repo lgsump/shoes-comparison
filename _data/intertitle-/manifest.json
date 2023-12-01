@@ -23,6 +23,32 @@
         "id": "https://lgsump.github.io/shoes-comparison/intertitle-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1207.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/shoes-comparison/annotations/intertitle--canvas-1-interitle-.json",
+            "label": {
+              "none": ["Interitle "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/shoes-comparison/annotations/intertitle--canvas-1-intertitle-.json",
+            "label": {
+              "none": ["Intertitle "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/shoes-comparison/annotations/intertitle--canvas-1-intertitle.json",
+            "label": {
+              "none": ["Intertitle"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/shoes-comparison/intertitle-/canvas-1/paintings",
